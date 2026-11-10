@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "expo-notifications-jest-repro",
+    "slug": "expo-notifications-jest-repro",
+    "version": "1.0.0",
+    "plugins": ["expo-notifications"]
+  }
+}
